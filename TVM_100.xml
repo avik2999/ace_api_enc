@@ -457,8 +457,8 @@
 </KeyMapMode>
 </Item>
 <Item ApkName="com.pubg.imobile" 备注="绝地求生——刺激战场国际版" VersionCode="17000">
-<StartInfo StartTimes="1"/>
-<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" ExitFullScreenKey="122"/>
+<StartInfo StartTimes="3"/>
+<LastMode ModeID="3" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" ExitFullScreenKey="122"/>
 <VersionInfo Version="70" ReqFeatureVer="7" CurFeatureVer="8"/>
 <Switch Name="AdjustMultiples" TextureId="81"/>
 <Switch Name="AdjustMultiplesPressed" TextureId="82"/>

@@ -1,38 +1,20 @@
-<Item ApkName="android" 备注="">
-<StartInfo StartTimes="1"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.android.browser" 备注="浏览器">
-<StartInfo StartTimes="2"/>
-<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-<VersionInfo Version="1"/>
-<KeyMapMode ModeID="1" Name="普通模式"/>
-</Item>
-<Item ApkName="com.android.documentsui" 备注="">
-<StartInfo StartTimes="2"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
 <Item ApkName="com.android.launcherex" 备注="">
-<StartInfo StartTimes="171"/>
+<StartInfo StartTimes="12"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.android.packageinstaller" 备注="">
+<StartInfo StartTimes="2"/>
 <LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
 </Item>
 <Item ApkName="com.android.settings" 备注="设置">
-<StartInfo StartTimes="1"/>
+<StartInfo StartTimes="13"/>
 <LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
 <VersionInfo Version="1"/>
 <KeyMapMode ModeID="1" Name="普通模式"/>
 </Item>
-<Item ApkName="com.android.vending" 备注="">
-<StartInfo StartTimes="1"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
-<Item ApkName="com.facebook.katana" 备注="">
-<StartInfo StartTimes="10"/>
-<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
-</Item>
 <Item ApkName="com.pubg.imobile" 备注="绝地求生——刺激战场国际版" VersionCode="17000">
-<StartInfo StartTimes="134"/>
-<LastMode ModeID="3" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" ExitFullScreenKey="122"/>
+<StartInfo StartTimes="27"/>
+<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" ExitFullScreenKey="122"/>
 <VersionInfo Version="70" ReqFeatureVer="7" CurFeatureVer="8"/>
 <Switch Name="AdjustMultiples" TextureId="81"/>
 <Switch Name="AdjustMultiplesPressed" TextureId="82"/>
@@ -125,7 +107,7 @@
 <Switch Name="openquit" TextureId="100"/>
 <Switch Name="shield" TextureId="104"/>
 <Switch Name="weapen" TextureId="101"/>
-<KeyMapMode ModeID="3" Name="Smart 1080P" ShowTipsAlways="1">
+<KeyMapMode ModeID="1" Name="ACE X 1080P" ShowTipsAlways="1">
 <KeyMapping ItemName="Right Click" Point_X="0.971094" Point_Y="0.647222" Description="右键开镜" MiniVisiable="false" MiniDisable="false" ShowOnLockAsciiCode="192" AsciiCode="-2">
 <SwitchOperation Description="飞行" EnableSwitch="Fly1" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.865625" Point_Y="0.866667"/>
 <SwitchOperation Description="上飞（翼龙）" EnableSwitch="Fly2" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.872396" Point_Y="0.839815"/>
@@ -164,7 +146,7 @@
 <SwitchOperation Description="关闭设置" EnableSwitch="InSetUp" Point_X="0.970703" Point_Y="0.013889"/>
 </KeyMapping>
 <KeyMapping ItemName="Space" Point_X="0.970313" Point_Y="0.779167" Description="跳跃" MiniVisiable="false" MiniDisable="false" AsciiCode="32">
-<SwitchOperation Description="跳跃" EnableSwitch="Jump" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Whistle|SwimUp|SwimmingUp" Point_X="0.970313" Point_Y="0.779167" HideTips="1"/>
+<SwitchOperation Description="跳跃" EnableSwitch="SetUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp|Whistle|SwimUp|SwimmingUp" Point_X="0.970313" Point_Y="0.779167" HideTips="1"/>
 <SwitchOperation Description="翻越" EnableSwitch="Climb" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.970313" Point_Y="0.779167" HideTips="1"/>
 <SwitchOperation Description="上潜" EnableSwitch="SwimUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.878906" Point_Y="0.702778" HideTips="1"/>
 <SwitchOperation Description="上潜中" EnableSwitch="SwimmingUp" DisableSwitch="XBtn|MapOpenFlag|InSetUp" Point_X="0.878906" Point_Y="0.702778" HideTips="1"/>
@@ -336,7 +318,7 @@
 <KeyMapping ItemName="-" Point_X="0.347731" Point_Y="0.364583" Description="表情-" MiniVisiable="false" MiniDisable="false" AsciiCode="189">
 <SwitchOperation Description="表情-" EnableSwitch="YouGood|EmojiPressed" DisableSwitch="MapOpenFlag|InSetUp"/>
 </KeyMapping>
-<KeyMappingEx ItemName="WASD" Point_X="0.160938" Point_Y="0.756944" Description="移动" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="CrossKey" speed="0" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68" Offset="0.070258" ShiftOffset="0.050000">
+<KeyMappingEx ItemName="WASD" Point_X="0.160938" Point_Y="0.756944" Description="移动" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" Type="CrossKey" speed="100" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68" Offset="0.070258" ShiftOffset="0.050000">
 <SwitchOperation Description="移动" EnableSwitch="SetUp" DisableSwitch="DriveMode1|DriveMode1Press"/>
 </KeyMappingEx>
 <KeyMappingEx ItemName="Left Mouse Button" Point_X="0.049219" Point_Y="0.506944" Description="开火" MiniVisiable="false" MiniDisable="false" AutoActive="1" Type="LClick" LOCK_AsciiCode="192">
@@ -352,7 +334,7 @@
 <KeyMappingEx ItemName="Move with Mouse" Point_X="0.516406" Point_Y="0.333333" Description="视角" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" AutoActive="1" Raw="1" Type="RClick" Offset="0.050000" LOCK_AsciiCode="192" AsciiCode="17" Sensi_X="1.000000" Sensi_Y="1.000000">
 <SwitchOperation Description="视角" EnableSwitch="SetUp" DisableSwitch="MapOpenFlag|XBtn|InSetUp|EmojiPressed|Shop1"/>
 </KeyMappingEx>
-<KeyMappingEx ItemName="Alt" Point_X="0.834375" Point_Y="0.230556" Description="Free view" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="0" OpGuidClass="0" HideTipsAlways="1" InUseDisableView="1" Type="KeyMove" Offset="0.490000" Click_X="0.834375" Click_Y="0.230556" Click_Offset="0.450000" AsciiCode="18" Cancel_X="-0.911133" Cancel_Y="-0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" UseMousePos="0" Center_XY_Disable="1" Delay="0">
+<KeyMappingEx ItemName="Alt" Point_X="0.834375" Point_Y="0.230556" Description="Free view" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="0" OpGuidClass="0" HideTipsAlways="1" InUseDisableView="1" Type="KeyMove" Offset="0.490000" Click_X="0.834375" Click_Y="0.230556" Click_Offset="0.450000" AsciiCode="18" Cancel_X="-0.911133" Cancel_Y="-0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="1">
 <SwitchOperation Description="Free view" EnableSwitch="Eye" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
 <SwitchOperation Description="Free view" EnableSwitch="OpenEye" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
 </KeyMappingEx>
@@ -455,10 +437,14 @@
 </KeyMapMode>
 </Item>
 <Item ApkName="com.twitter.android" 备注="">
-<StartInfo StartTimes="88"/>
+<StartInfo StartTimes="14"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="eu.tsoml.graphicssettings" 备注="">
+<StartInfo StartTimes="14"/>
 <LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
 </Item>
 <Item ApkName="nextapp.fx" 备注="">
-<StartInfo StartTimes="51"/>
+<StartInfo StartTimes="2"/>
 <LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
 </Item>

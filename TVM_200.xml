@@ -1,0 +1,171 @@
+<Item ApkName="android" 备注="">
+<StartInfo StartTimes="6"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.android.browser" 备注="浏览器">
+<StartInfo StartTimes="10"/>
+<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+<VersionInfo Version="1"/>
+<KeyMapMode ModeID="1" Name="普通模式"/>
+</Item>
+<Item ApkName="com.android.documentsui" 备注="">
+<StartInfo StartTimes="1"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.android.launcherex" 备注="">
+<StartInfo StartTimes="917"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.android.packageinstaller" 备注="">
+<StartInfo StartTimes="47"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.android.settings" 备注="设置">
+<StartInfo StartTimes="40"/>
+<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+<VersionInfo Version="1"/>
+<KeyMapMode ModeID="1" Name="普通模式"/>
+</Item>
+<Item ApkName="com.android.vending" 备注="">
+<StartInfo StartTimes="11"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.google.android.gms" 备注="">
+<StartInfo StartTimes="17"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.google.android.play.games" 备注="">
+<StartInfo StartTimes="2"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="com.pubg.imobile" 备注="绝地求生——刺激战场国际版" VersionCode="17000">
+<StartInfo StartTimes="321"/>
+<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" ExitFullScreenKey="122"/>
+<VersionInfo Version="70" ReqFeatureVer="7" CurFeatureVer="8"/>
+<Switch Name="AdjustMultiples" TextureId="81"/>
+<Switch Name="AdjustMultiplesPressed" TextureId="82"/>
+<Switch Name="Apple" TextureId="89"/>
+<Switch Name="Backpage" TextureId="6"/>
+<Switch Name="Backpage1" TextureId="57"/>
+<Switch Name="Backpage2" TextureId="48"/>
+<Switch Name="Backpage3" TextureId="49"/>
+<Switch Name="Bicycle" TextureId="111"/>
+<Switch Name="Bicycle1" TextureId="112"/>
+<Switch Name="Boom" TextureId="91"/>
+<Switch Name="ByCar" TextureId="31"/>
+<Switch Name="CancelFall" TextureId="10"/>
+<Switch Name="CancelFireTheHole" TextureId="66"/>
+<Switch Name="CancelRun" TextureId="15"/>
+<Switch Name="CancelSquat" TextureId="12"/>
+<Switch Name="ClickPacket" TextureId="44"/>
+<Switch Name="ClickPickup" TextureId="43"/>
+<Switch Name="ClickPickup1" TextureId="75"/>
+<Switch Name="Climb" TextureId="110"/>
+<Switch Name="Climb1" TextureId="105"/>
+<Switch Name="DoorClose" TextureId="2"/>
+<Switch Name="DoorOpen" TextureId="1"/>
+<Switch Name="DriveMode1" TextureId="52"/>
+<Switch Name="DriveMode1Press" TextureId="53"/>
+<Switch Name="DriveSpeed" TextureId="63"/>
+<Switch Name="DriveSpeedPress" TextureId="64"/>
+<Switch Name="Emoji" TextureId="85"/>
+<Switch Name="EmojiPressed" TextureId="86"/>
+<Switch Name="Eye" TextureId="39"/>
+<Switch Name="Fall" TextureId="9"/>
+<Switch Name="Fly1" TextureId="98"/>
+<Switch Name="GetIntoCar" TextureId="30"/>
+<Switch Name="GetOutCar" TextureId="32"/>
+<Switch Name="Grenade" TextureId="67"/>
+<Switch Name="Grenade1" TextureId="69"/>
+<Switch Name="Grenade2" TextureId="70"/>
+<Switch Name="Grenade3" TextureId="71"/>
+<Switch Name="GrenadeArrowUp" TextureId="68"/>
+<Switch Name="Hand" TextureId="103"/>
+<Switch Name="Help" TextureId="46"/>
+<Switch Name="Help1" TextureId="106"/>
+<Switch Name="Help2" TextureId="107"/>
+<Switch Name="InSetUp" TextureId="47"/>
+<Switch Name="Jump" TextureId="13"/>
+<Switch Name="MapOpenFlag" TextureId="19"/>
+<Switch Name="Medicine1" TextureId="80"/>
+<Switch Name="Medicine2" TextureId="78"/>
+<Switch Name="Medicine3" TextureId="76"/>
+<Switch Name="Medicine4" TextureId="77"/>
+<Switch Name="Medicine5" TextureId="79"/>
+<Switch Name="Medicine6" TextureId="109"/>
+<Switch Name="MeleeWeapon1" TextureId="72"/>
+<Switch Name="MeleeWeapon2" TextureId="73"/>
+<Switch Name="MeleeWeapon3" TextureId="74"/>
+<Switch Name="Moto" TextureId="59"/>
+<Switch Name="Moto2" TextureId="60"/>
+<Switch Name="NineBlock" TextureId="58"/>
+<Switch Name="OpenEye" TextureId="40"/>
+<Switch Name="OutCarShoot" TextureId="55"/>
+<Switch Name="OutCarShoot2" TextureId="56"/>
+<Switch Name="Parachute" TextureId="3"/>
+<Switch Name="Parachute2" TextureId="4"/>
+<Switch Name="Pickup" TextureId="26"/>
+<Switch Name="Reload" TextureId="16"/>
+<Switch Name="Run" TextureId="14"/>
+<Switch Name="SetUp" TextureId="17" ModeID="2"/>
+<Switch Name="Shop" TextureId="102"/>
+<Switch Name="Shop1" TextureId="108"/>
+<Switch Name="Sideways" TextureId="50"/>
+<Switch Name="SidewaysCancel" TextureId="51"/>
+<Switch Name="SixBlock" TextureId="62"/>
+<Switch Name="SkyBoxFlag" TextureId="65"/>
+<Switch Name="SlipWhitePoint" TextureId="83"/>
+<Switch Name="Sniper" TextureId="7"/>
+<Switch Name="Sniper2" TextureId="61"/>
+<Switch Name="Squat" TextureId="11"/>
+<Switch Name="Sw1to3" TextureId="99"/>
+<Switch Name="SwimDown" TextureId="35"/>
+<Switch Name="SwimUp" TextureId="37"/>
+<Switch Name="SwimmingDown" TextureId="36"/>
+<Switch Name="SwimmingUp" TextureId="38"/>
+<Switch Name="ThrowHigh" TextureId="41"/>
+<Switch Name="ThrowLow" TextureId="42"/>
+<Switch Name="Triangle" TextureId="45"/>
+<Switch Name="WASDControl" TextureId="5"/>
+<Switch Name="Whistle" TextureId="33"/>
+<Switch Name="XBtn" TextureId="18"/>
+<Switch Name="YouGood" TextureId="88"/>
+<Switch Name="openquit" TextureId="100"/>
+<Switch Name="shield" TextureId="104"/>
+<Switch Name="weapen" TextureId="101"/>
+<KeyMapMode ModeID="1" Name="Normal 720P">
+<KeyMapping ItemName="Right Click" Point_X="0.973324" Point_Y="0.669028" Description="右键开镜" MiniVisiable="false" MiniDisable="false" AsciiCode="-2"/>
+<KeyMapping ItemName="Tab" Point_X="0.051977" Point_Y="0.928715" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="9"/>
+<KeyMapping ItemName="Shift" Point_X="0.856497" Point_Y="0.155622" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="16"/>
+<KeyMapping ItemName="Space" Point_X="0.969492" Point_Y="0.762048" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="32"/>
+<KeyMapping ItemName="1" Point_X="0.444068" Point_Y="0.929719" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="49"/>
+<KeyMapping ItemName="2" Point_X="0.541243" Point_Y="0.933735" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="50"/>
+<KeyMapping ItemName="3" Point_X="0.585311" Point_Y="0.875502" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="51"/>
+<KeyMapping ItemName="4" Point_X="0.359887" Point_Y="0.950803" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="52"/>
+<KeyMapping ItemName="5" Point_X="0.644068" Point_Y="0.951807" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="53"/>
+<KeyMapping ItemName="C" Point_X="0.884181" Point_Y="0.950803" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="67"/>
+<KeyMapping ItemName="E" Point_X="0.164407" Point_Y="0.528112" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="69"/>
+<KeyMapping ItemName="F" Point_X="0.758192" Point_Y="0.574297" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="70"/>
+<KeyMapping ItemName="G" Point_X="0.759887" Point_Y="0.662651" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="71"/>
+<KeyMapping ItemName="M" Point_X="0.981356" Point_Y="0.037149" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="77"/>
+<KeyMapping ItemName="Q" Point_X="0.105085" Point_Y="0.528112" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="81"/>
+<KeyMapping ItemName="R" Point_X="0.824294" Point_Y="0.951807" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="82"/>
+<KeyMapping ItemName="V" Point_X="0.190395" Point_Y="0.896586" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="86"/>
+<KeyMapping ItemName="Z" Point_X="0.956497" Point_Y="0.940763" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="90"/>
+<KeyMappingEx ItemName="WASD" Point_X="0.158594" Point_Y="0.751389" Description="移动" MiniVisiable="false" MiniDisable="false" Type="CrossKey" speed="0" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68" Offset="0.070258" ShiftOffset="0.100000"/>
+<KeyMappingEx ItemName="Left Mouse Button" Point_X="0.889831" Point_Y="0.818273" Description="开火" MiniVisiable="false" MiniDisable="false" Type="LClick" LOCK_AsciiCode="17" AsciiCode="17"/>
+<KeyMappingEx ItemName="Move with Mouse" Point_X="0.570056" Point_Y="0.313253" Description="视角" MiniVisiable="false" MiniDisable="false" AutoCancel="0" Type="RClick" LOCK_AsciiCode="17" AsciiCode="17" Sensi_X="1.000000" Sensi_Y="1.000000"/>
+<KeyMappingEx ItemName="Alt" Point_X="0.834375" Point_Y="0.230556" Description="Free view" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="0" OpGuidClass="0" HideTipsAlways="1" InUseDisableView="1" Type="KeyMove" Offset="0.490000" Click_X="0.834375" Click_Y="0.230556" Click_Offset="0.450000" AsciiCode="18" Cancel_X="-0.911133" Cancel_Y="-0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" UseMousePos="0" Center_XY_Disable="1" Delay="50">
+<SwitchOperation Description="Free view" EnableSwitch="Eye" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
+<SwitchOperation Description="Free view" EnableSwitch="OpenEye" DisableSwitch="XBtn|MapOpenFlag|InSetUp"/>
+</KeyMappingEx>
+</KeyMapMode>
+</Item>
+<Item ApkName="com.twitter.android" 备注="">
+<StartInfo StartTimes="415"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>
+<Item ApkName="nextapp.fx" 备注="">
+<StartInfo StartTimes="185"/>
+<LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
+</Item>

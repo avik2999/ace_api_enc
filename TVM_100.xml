@@ -1,10 +1,10 @@
 <Item ApkName="com.android.launcherex" 备注="">
-<StartInfo StartTimes="5"/>
+<StartInfo StartTimes="6"/>
 <LastMode ModeID="0" EnableTips="0" EnableGameKeyDT="0" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0"/>
 </Item>
 <Item ApkName="com.pubg.imobile" 备注="ACE X BGMI KEYMAP 2.0" VersionCode="17000">
-<StartInfo StartTimes="8"/>
-<LastMode ModeID="3" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" DisableSmartMode="1" ExitFullScreenKey="122"/>
+<StartInfo StartTimes="10"/>
+<LastMode ModeID="1" EnableTips="0" EnableGameKeyDT="1" TipsTransparent="0.500000" Lightness="1.000000" EnableSwitchViewLockMethod="0" DisableSmartMode="1" ExitFullScreenKey="122"/>
 <VersionInfo Version="72" ReqFeatureVer="7" CurFeatureVer="8"/>
 <Switch Name="AdjustMultiples" TextureId="81"/>
 <Switch Name="AdjustMultiplesPressed" TextureId="82"/>
@@ -97,24 +97,32 @@
 <Switch Name="openquit" TextureId="100"/>
 <Switch Name="shield" TextureId="104"/>
 <Switch Name="weapen" TextureId="101"/>
-<KeyMapMode ModeID="1" Name="CUSTOM" CurrModeEnableTips="1">
-<KeyMapping ItemName="Right Click" Point_X="0.945047" Point_Y="0.534940" Description="右键开镜" MiniVisiable="false" MiniDisable="false" ShowOnLockAsciiCode="192" AsciiCode="-2"/>
-<KeyMapping ItemName="Tab" Point_X="0.071875" Point_Y="0.912500" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="9"/>
-<KeyMapping ItemName="Space" Point_X="0.958594" Point_Y="0.706944" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="32"/>
-<KeyMapping ItemName="1" Point_X="0.429688" Point_Y="0.902778" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="49"/>
-<KeyMapping ItemName="2" Point_X="0.551562" Point_Y="0.913889" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="50"/>
-<KeyMapping ItemName="5" Point_X="0.681250" Point_Y="0.936111" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="53"/>
-<KeyMapping ItemName="9" Point_X="0.304688" Point_Y="0.938889" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="57"/>
-<KeyMapping ItemName="C" Point_X="0.846094" Point_Y="0.929167" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="67"/>
-<KeyMapping ItemName="E" Point_X="0.675781" Point_Y="0.680556" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="69"/>
-<KeyMapping ItemName="F" Point_X="0.653906" Point_Y="0.337500" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="70"/>
-<KeyMapping ItemName="M" Point_X="0.976563" Point_Y="0.043056" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="77"/>
-<KeyMapping ItemName="R" Point_X="0.765625" Point_Y="0.938889" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="82"/>
-<KeyMapping ItemName="Z" Point_X="0.944531" Point_Y="0.890278" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="90"/>
-<KeyMapping ItemName="=" Point_X="0.888060" Point_Y="0.283133" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="187"/>
+<KeyMapMode ModeID="1" Name="CUSTOM">
+<KeyMapping ItemName="Right Click" Point_X="0.961017" Point_Y="0.645875" Description="右键开镜" MiniVisiable="false" MiniDisable="false" ShowOnLockAsciiCode="192" AsciiCode="-2"/>
+<KeyMapping ItemName="Tab" Point_X="0.053107" Point_Y="0.934608" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="9"/>
+<KeyMapping ItemName="Shift" Point_X="0.851977" Point_Y="0.152918" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="16"/>
+<KeyMapping ItemName="Space" Point_X="0.969492" Point_Y="0.763581" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="32"/>
+<KeyMapping ItemName="1" Point_X="0.443503" Point_Y="0.927565" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="49"/>
+<KeyMapping ItemName="2" Point_X="0.542373" Point_Y="0.925553" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="50"/>
+<KeyMapping ItemName="3" Point_X="0.590960" Point_Y="0.875252" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="51"/>
+<KeyMapping ItemName="4" Point_X="0.359322" Point_Y="0.949698" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="52"/>
+<KeyMapping ItemName="5" Point_X="0.642373" Point_Y="0.953722" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="53"/>
+<KeyMapping ItemName="C" Point_X="0.884181" Point_Y="0.947686" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="67"/>
+<KeyMapping ItemName="E" Point_X="0.164407" Point_Y="0.528169" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="69"/>
+<KeyMapping ItemName="F" Point_X="0.758757" Point_Y="0.569416" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="70"/>
+<KeyMapping ItemName="G" Point_X="0.757627" Point_Y="0.658954" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="71"/>
+<KeyMapping ItemName="M" Point_X="0.983051" Point_Y="0.031187" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="77"/>
+<KeyMapping ItemName="Q" Point_X="0.104520" Point_Y="0.528169" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="81"/>
+<KeyMapping ItemName="R" Point_X="0.825424" Point_Y="0.954728" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="82"/>
+<KeyMapping ItemName="T" Point_X="0.883616" Point_Y="0.096579" Description="字母键划线" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="84" KeyMouseSlideType="1" KeyMouseSlidePoints="(0.883616,0.096579,0)(0.883616,0.096579,15)(0.883616,0.096579,94)"/>
+<KeyMapping ItemName="V" Point_X="0.192090" Point_Y="0.890342" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="86"/>
+<KeyMapping ItemName="Y" Point_X="0.886441" Point_Y="0.151911" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="89"/>
+<KeyMapping ItemName="Z" Point_X="0.942938" Point_Y="0.950704" Description="字母键" MiniVisiable="false" MiniDisable="false" AsciiCode="90"/>
+<KeyMapping ItemName="F2" Point_X="0.920904" Point_Y="0.268612" Description="字母键" MiniVisiable="true" MiniDisable="false" AutoCancel="0" AsciiCode="113"/>
 <KeyMappingEx ItemName="WASD" Point_X="0.158594" Point_Y="0.751389" Description="移动" MiniVisiable="false" MiniDisable="false" Type="CrossKey" speed="10000" UP_AsciiCode="87" DOWN_AsciiCode="83" LEFT_AsciiCode="65" RIGHT_AsciiCode="68" Offset="0.070258" ShiftOffset="0.100000"/>
+<KeyMappingEx ItemName="Left Mouse Button" Point_X="0.889831" Point_Y="0.818913" Description="开火" MiniVisiable="false" MiniDisable="false" AutoCancel="0" Type="LClick" LOCK_AsciiCode="192" AsciiCode="17"/>
 <KeyMappingEx ItemName="Move with Mouse" Point_X="0.516406" Point_Y="0.333333" Description="视角" MiniVisiable="false" MiniDisable="false" HideTipsAlways="1" AutoActive="1" Raw="1" Type="RClick" Offset="0.450000" LOCK_AsciiCode="192" AsciiCode="17" Sensi_X="1.000000" Sensi_Y="1.000000"/>
-<KeyMappingEx ItemName="Alt" Point_X="0.839213" Point_Y="0.220482" Description="Free view" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1001" OpGuidClass="0" InUseDisableView="1" Type="KeyMove" Offset="230" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="18" Cancel_X="-0.911133" Cancel_Y="-0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="1" Delay="0"/>
+<KeyMappingEx ItemName="Alt" Point_X="0.831638" Point_Y="0.233400" Description="Free view" MiniVisiable="false" MiniDisable="false" NoDelete="1" SpecialFunc="1001" OpGuidClass="0" InUseDisableView="1" Type="KeyMove" Offset="230" Click_X="0.500000" Click_Y="0.550000" Click_Offset="0.450000" AsciiCode="18" Cancel_X="-0.911133" Cancel_Y="-0.277778" Click_Left="1" ReleaseNow="0" Center_X="0.000000" Center_Y="0.000000" StopMoving="0" NeedPressed="1" Center_XY_Disable="1" Delay="0"/>
 </KeyMapMode>
 <KeyMapMode ModeID="2" Name="ACE 720P" ShowTipsAlways="1" CurrModeEnableTips="1">
 <KeyMapping ItemName="Right Click" Point_X="0.963281" Point_Y="0.523611" Description="右键开镜" MiniVisiable="false" MiniDisable="false" ShowOnLockAsciiCode="192" AsciiCode="-2">
